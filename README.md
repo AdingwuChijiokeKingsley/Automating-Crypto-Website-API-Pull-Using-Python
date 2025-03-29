@@ -1,9 +1,3 @@
-
-
-# README for "Automating Crypto Website API Pull Using Python"
-
----
-
 # Automating Crypto Website API Pull Using Python**  
 A Python script that automates cryptocurrency price data extraction from CoinMarketCap API, stores it in a CSV file, and continuously updates the data at regular intervals.
 
